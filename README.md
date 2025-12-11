@@ -4,6 +4,7 @@ A Python library for mathematical-morphology (MM)–based filtrations and persis
 
 # Dependencies
 GUDHI 3.11.0
+
 Persim 0.3.8
 
 # Links
