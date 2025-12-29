@@ -7,6 +7,6 @@ GUDHI 3.11.0
 Persim 0.3.8
 
 # Links
-GUDHI: https://gudhi.inria.fr/index.html
-Persim: https://persim.scikit-tda.org/en/latest/
+GUDHI: https://gudhi.inria.fr/index.html 
+Persim: https://persim.scikit-tda.org/en/latest/ 
 
